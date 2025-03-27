@@ -28,8 +28,8 @@ $user = $stmt->fetch();
 
 <body>
     <?php $page = 'home' ?>
-    <?php include "menu.php" ?>
     <!-- Navbar -->
+    <?php include "menu.php" ?>
     <!-- // HOME PAGE // -->
     <section class="home-page">
         <div class="home-page-container">
